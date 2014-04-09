@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24bbaadb-f723-4e4c-822d-183f6aebf2fc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.rsync_cache" afterPath="$PROJECT_DIR$/.rsync_cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/symfony-standard.iml" afterPath="$PROJECT_DIR$/.idea/symfony-standard.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Theodo/CapBundle/Tests/Controller/DefaultControllerTest.php" afterPath="$PROJECT_DIR$/src/Theodo/CapBundle/Tests/Controller/DefaultControllerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing_dev.yml" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="symfony-standard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,7 +74,7 @@
       <file leaf-file-name="DefaultControllerTest.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Theodo/CapBundle/Tests/Controller/DefaultControllerTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="74" selection-start="374" selection-end="374" vertical-scroll-proportion="0.5706522" vertical-offset="0" max-vertical-offset="368">
+            <state line="15" column="70" selection-start="444" selection-end="444" vertical-scroll-proportion="0.61141306" vertical-offset="0" max-vertical-offset="368">
               <folding />
             </state>
           </provider>
@@ -693,7 +690,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Theodo/CapBundle/Tests/Controller/DefaultControllerTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="74" selection-start="374" selection-end="374" vertical-scroll-proportion="0.5706522" vertical-offset="0" max-vertical-offset="368">
+        <state line="15" column="70" selection-start="444" selection-end="444" vertical-scroll-proportion="0.61141306" vertical-offset="0" max-vertical-offset="368">
           <folding />
         </state>
       </provider>
