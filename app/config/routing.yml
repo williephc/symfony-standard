@@ -1,0 +1,4 @@
+cap:
+    resource: "@CapBundle/Resources/config/routing.yml"
+    prefix:   /
+
