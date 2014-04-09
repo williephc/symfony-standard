@@ -13,6 +13,6 @@ class DefaultControllerTest extends WebTestCase
         $crawler = $client->request('GET', '/hello/World');
 
         $this->assertEquals(200, $client->getResponse()->getStatusCode());
-        $this->assertTrue($crawler->filter('html:contains("Hello World")')->count() > 0);
+        $this->assertTrue($crawler->filter('html:contains("Hello Fail")')->count() > 0);
     }
 }
