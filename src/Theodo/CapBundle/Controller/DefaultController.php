@@ -8,6 +8,9 @@ class DefaultController extends Controller
 {
     public function indexAction($name)
     {
+        theodo();
+
+
         return $this->render('CapBundle:Default:index.html.twig', array('name' => $name));
     }
 }
