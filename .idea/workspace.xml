@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="24bbaadb-f723-4e4c-822d-183f6aebf2fc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.rsync_cache" afterPath="$PROJECT_DIR$/.rsync_cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Theodo/CapBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/Theodo/CapBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Theodo/CapBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/Theodo/CapBundle/Resources/views/Default/index.html.twig" />
     </list>
     <ignored path="symfony-standard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,19 +54,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html.twig" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Theodo/CapBundle/Resources/views/Default/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+            <state line="2" column="33" selection-start="83" selection-end="83" vertical-scroll-proportion="0.07633588" vertical-offset="0" max-vertical-offset="393">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DefaultController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Theodo/CapBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="17" selection-start="213" selection-end="213" vertical-scroll-proportion="0.3816794" vertical-offset="0" max-vertical-offset="393">
+            <state line="14" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -86,12 +88,12 @@
         <option value="$PROJECT_DIR$/vendor/sensio/distribution-bundle/Sensio/Bundle/DistributionBundle/Resources/skeleton/web/config.php" />
         <option value="$PROJECT_DIR$/web/config.php" />
         <option value="$PROJECT_DIR$/web/app.php" />
-        <option value="$PROJECT_DIR$/src/Theodo/CapBundle/Resources/views/Default/index.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
         <option value="$PROJECT_DIR$/app/config/routing_dev.yml" />
         <option value="$PROJECT_DIR$/web/app_dev.php" />
         <option value="$PROJECT_DIR$/src/Theodo/CapBundle/Tests/Controller/DefaultControllerTest.php" />
         <option value="$PROJECT_DIR$/src/Theodo/CapBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/Theodo/CapBundle/Resources/views/Default/index.html.twig" />
       </list>
     </option>
   </component>
@@ -458,13 +460,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/src/Theodo/CapBundle/Controller/DefaultController.php</url>
-          <line>10</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
@@ -732,13 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Theodo/CapBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="392">
@@ -783,7 +771,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Theodo/CapBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="17" selection-start="213" selection-end="213" vertical-scroll-proportion="0.3816794" vertical-offset="0" max-vertical-offset="393">
+        <state line="14" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theodo/CapBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="83" selection-end="83" vertical-scroll-proportion="0.07633588" vertical-offset="0" max-vertical-offset="393">
           <folding />
         </state>
       </provider>
