@@ -1,3 +1,7 @@
+event:
+    resource: "@EventBundle/Resources/config/routing.yml"
+    prefix:   /
+
 cap:
     resource: "@CapBundle/Resources/config/routing.yml"
     prefix:   /
